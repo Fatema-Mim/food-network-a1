@@ -146,8 +146,11 @@ h3{
     box-sizing: border-box;
     text-align: center;
 }
-.reviewer-img img{
+#reviewer-img img{
     width: 40%;
+}
+#reviewer-img2 img{
+    width: 38%;
 }
 
 #like{
