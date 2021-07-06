@@ -81,6 +81,7 @@ h3{
 .boxes{
     padding: 20px 40px;
     box-sizing: border-box;
+    margin: auto;
 }
 .item1{
     width: 30%;
